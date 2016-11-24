@@ -67,3 +67,7 @@ td {
     position: relative; 
     bottom: -2px;
 }
+
+.invisible {
+    display : none;
+}
